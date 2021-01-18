@@ -1,6 +1,6 @@
 # Ptex-sys
 
-Auto-generated Rust bindings for Illumination Disney’s per-face texture mapping library – [Ptex](https://ptex.us/).
+Auto-generated Rust bindings for Disney’s per-face texture mapping library – [Ptex](https://ptex.us/).
 
 ## Prerequisites
 
